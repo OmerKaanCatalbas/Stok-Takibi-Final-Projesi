@@ -67,7 +67,7 @@ GET https://<deploy-url>/api/products/search?name=klavye
 
 ## 🌐 Deploy Linki
 
-> [https://stoktakibifinalprojesi-production.up.railway.app](https://stoktakibifinalprojesi-production.up.railway.app)
+> [https://stok-takibi-final-projesi-production.up.railway.app/](https://stok-takibi-final-projesi-production.up.railway.app/)
 
 ---
 
